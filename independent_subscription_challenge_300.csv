@@ -1,0 +1,432 @@
+id,customer_id,text,label,service,amount,currency,date,frequency
+CHL00001,ICUST0001,Your Dropbox Plus plan renewed for $20.30. Access continues for the next billing period.,1,Dropbox Plus,20.3,USD,2026-09-03,monthly
+CHL00002,ICUST0002,We received $11.96 for your Notion Plus membership. Your plan remains active.,1,Notion Plus,11.96,USD,2026-08-31,monthly
+CHL00003,ICUST0003,Zoom Pro: recurring charge of $18.05 was processed successfully. Next renewal is scheduled for next month.,1,Zoom Pro,18.05,USD,2026-09-08,monthly
+CHL00004,ICUST0004,Your Grammarly Premium plan renewed for $19.59. Access continues for the next billing period.,1,Grammarly Premium,19.59,USD,2026-08-31,monthly
+CHL00005,ICUST0005,Your Duolingo Super plan renewed for $8.74. Access continues for the next billing period.,1,Duolingo Super,8.74,USD,2026-09-07,monthly
+CHL00006,ICUST0006,Thanks for your iCloud+ payment of $2.78. Premium access continues.,1,iCloud+,2.78,USD,2026-09-02,monthly
+CHL00007,ICUST0007,Your GitHub Copilot account will renew automatically; $23.03 was collected for this period.,1,GitHub Copilot,23.03,USD,2026-08-30,monthly
+CHL00008,ICUST0008,We received $60.34 for your LinkedIn Premium membership. Your plan remains active.,1,LinkedIn Premium,60.34,USD,2026-09-05,monthly
+CHL00009,ICUST0009,We received $10.71 for your Disney+ membership. Your plan remains active.,1,Disney+,10.71,USD,2026-09-02,monthly
+CHL00010,ICUST0010,Receipt: Amazon Prime plan payment $16.65. Next billing date is in 30 days.,1,Amazon Prime,16.65,USD,2026-08-31,monthly
+CHL00011,ICUST0011,NordVPN: recurring charge of $5.92 was processed successfully. Next renewal is scheduled for next month.,1,NordVPN,5.92,USD,2026-09-04,monthly
+CHL00012,ICUST0012,Your Proton Unlimited account will renew automatically; $18.46 was collected for this period.,1,Proton Unlimited,18.46,USD,2026-08-30,monthly
+CHL00013,ICUST0013,Evernote Personal: recurring charge of $15.84 was processed successfully. Next renewal is scheduled for next month.,1,Evernote Personal,15.84,USD,2026-09-05,monthly
+CHL00014,ICUST0014,Your Headspace account will renew automatically; $10.78 was collected for this period.,1,Headspace,10.78,USD,2026-09-08,monthly
+CHL00015,ICUST0015,Receipt: Coursera Plus plan payment $66.71. Next billing date is in 30 days.,1,Coursera Plus,66.71,USD,2026-09-08,monthly
+CHL00016,ICUST0016,Dropbox Plus: recurring charge of $14.49 was processed successfully. Next renewal is scheduled for next month.,1,Dropbox Plus,14.49,USD,2026-08-30,monthly
+CHL00017,ICUST0017,Your Notion Plus account will renew automatically; $15.29 was collected for this period.,1,Notion Plus,15.29,USD,2026-08-31,monthly
+CHL00018,ICUST0018,Zoom Pro: recurring charge of $19.12 was processed successfully. Next renewal is scheduled for next month.,1,Zoom Pro,19.12,USD,2026-09-05,monthly
+CHL00019,ICUST0019,Receipt: Grammarly Premium plan payment $17.00. Next billing date is in 30 days.,1,Grammarly Premium,17.0,USD,2026-09-01,monthly
+CHL00020,ICUST0020,$9.95 has been charged for the current Duolingo Super billing cycle.,1,Duolingo Super,9.95,USD,2026-09-03,monthly
+CHL00021,ICUST0021,iCloud+: recurring charge of $7.31 was processed successfully. Next renewal is scheduled for next month.,1,iCloud+,7.31,USD,2026-09-08,monthly
+CHL00022,ICUST0022,$28.41 has been charged for the current GitHub Copilot billing cycle.,1,GitHub Copilot,28.41,USD,2026-09-01,monthly
+CHL00023,ICUST0023,Your LinkedIn Premium account will renew automatically; $48.48 was collected for this period.,1,LinkedIn Premium,48.48,USD,2026-09-07,monthly
+CHL00024,ICUST0024,Receipt: Disney+ plan payment $9.75. Next billing date is in 30 days.,1,Disney+,9.75,USD,2026-08-30,monthly
+CHL00025,ICUST0025,Your Amazon Prime plan renewed for $10.82. Access continues for the next billing period.,1,Amazon Prime,10.82,USD,2026-09-04,monthly
+CHL00026,ICUST0026,NordVPN: recurring charge of $9.00 was processed successfully. Next renewal is scheduled for next month.,1,NordVPN,9.0,USD,2026-09-02,monthly
+CHL00027,ICUST0027,Receipt: Proton Unlimited plan payment $19.12. Next billing date is in 30 days.,1,Proton Unlimited,19.12,USD,2026-09-02,monthly
+CHL00028,ICUST0028,Thanks for your Evernote Personal payment of $15.24. Premium access continues.,1,Evernote Personal,15.24,USD,2026-09-06,monthly
+CHL00029,ICUST0029,We received $11.42 for your Headspace membership. Your plan remains active.,1,Headspace,11.42,USD,2026-09-02,monthly
+CHL00030,ICUST0030,Your Coursera Plus account will renew automatically; $63.90 was collected for this period.,1,Coursera Plus,63.9,USD,2026-09-08,monthly
+CHL00031,ICUST0031,Thanks for your Dropbox Plus payment of $17.56. Premium access continues.,1,Dropbox Plus,17.56,USD,2026-09-04,monthly
+CHL00032,ICUST0032,We received $11.75 for your Notion Plus membership. Your plan remains active.,1,Notion Plus,11.75,USD,2026-09-07,monthly
+CHL00033,ICUST0033,Your Zoom Pro plan renewed for $16.95. Access continues for the next billing period.,1,Zoom Pro,16.95,USD,2026-08-31,monthly
+CHL00034,ICUST0034,We received $14.75 for your Grammarly Premium membership. Your plan remains active.,1,Grammarly Premium,14.75,USD,2026-09-05,monthly
+CHL00035,ICUST0035,Thanks for your Duolingo Super payment of $11.76. Premium access continues.,1,Duolingo Super,11.76,USD,2026-09-05,monthly
+CHL00036,ICUST0036,iCloud+ renewal confirmed — $6.35 paid for the upcoming month.,1,iCloud+,6.35,USD,2026-09-07,monthly
+CHL00037,ICUST0037,Your GitHub Copilot plan renewed for $17.29. Access continues for the next billing period.,1,GitHub Copilot,17.29,USD,2026-08-31,monthly
+CHL00038,ICUST0038,Your LinkedIn Premium account will renew automatically; $57.26 was collected for this period.,1,LinkedIn Premium,57.26,USD,2026-09-04,monthly
+CHL00039,ICUST0039,Thanks for your Disney+ payment of $8.88. Premium access continues.,1,Disney+,8.88,USD,2026-09-01,monthly
+CHL00040,ICUST0040,Your Amazon Prime account will renew automatically; $12.62 was collected for this period.,1,Amazon Prime,12.62,USD,2026-09-07,monthly
+CHL00041,ICUST0041,NordVPN: recurring charge of $12.61 was processed successfully. Next renewal is scheduled for next month.,1,NordVPN,12.61,USD,2026-09-03,monthly
+CHL00042,ICUST0042,$18.41 has been charged for the current Proton Unlimited billing cycle.,1,Proton Unlimited,18.41,USD,2026-09-01,monthly
+CHL00043,ICUST0043,We received $12.99 for your Evernote Personal membership. Your plan remains active.,1,Evernote Personal,12.99,USD,2026-09-07,monthly
+CHL00044,ICUST0044,Your Headspace plan renewed for $19.52. Access continues for the next billing period.,1,Headspace,19.52,USD,2026-09-08,monthly
+CHL00045,ICUST0045,Your Coursera Plus plan renewed for $55.48. Access continues for the next billing period.,1,Coursera Plus,55.48,USD,2026-08-31,monthly
+CHL00046,ICUST0046,Your Dropbox Plus account will renew automatically; $24.07 was collected for this period.,1,Dropbox Plus,24.07,USD,2026-09-02,monthly
+CHL00047,ICUST0047,Notion Plus: recurring charge of $10.46 was processed successfully. Next renewal is scheduled for next month.,1,Notion Plus,10.46,USD,2026-08-31,monthly
+CHL00048,ICUST0048,Zoom Pro: recurring charge of $18.38 was processed successfully. Next renewal is scheduled for next month.,1,Zoom Pro,18.38,USD,2026-09-07,monthly
+CHL00049,ICUST0049,We received $25.79 for your Grammarly Premium membership. Your plan remains active.,1,Grammarly Premium,25.79,USD,2026-09-06,monthly
+CHL00050,ICUST0050,We received $14.56 for your Duolingo Super membership. Your plan remains active.,1,Duolingo Super,14.56,USD,2026-09-03,monthly
+CHL00051,ICUST0051,Thanks for your iCloud+ payment of $5.74. Premium access continues.,1,iCloud+,5.74,USD,2026-09-02,monthly
+CHL00052,ICUST0052,$36.94 has been charged for the current GitHub Copilot billing cycle.,1,GitHub Copilot,36.94,USD,2026-09-03,monthly
+CHL00053,ICUST0053,Receipt: LinkedIn Premium plan payment $45.95. Next billing date is in 30 days.,1,LinkedIn Premium,45.95,USD,2026-09-06,monthly
+CHL00054,ICUST0054,Disney+ renewal confirmed — $15.19 paid for the upcoming month.,1,Disney+,15.19,USD,2026-08-31,monthly
+CHL00055,ICUST0055,Amazon Prime: recurring charge of $10.97 was processed successfully. Next renewal is scheduled for next month.,1,Amazon Prime,10.97,USD,2026-09-04,monthly
+CHL00056,ICUST0056,$5.20 has been charged for the current NordVPN billing cycle.,1,NordVPN,5.2,USD,2026-09-08,monthly
+CHL00057,ICUST0057,Proton Unlimited: recurring charge of $12.19 was processed successfully. Next renewal is scheduled for next month.,1,Proton Unlimited,12.19,USD,2026-08-30,monthly
+CHL00058,ICUST0058,Your Evernote Personal plan renewed for $11.83. Access continues for the next billing period.,1,Evernote Personal,11.83,USD,2026-09-04,monthly
+CHL00059,ICUST0059,$10.70 has been charged for the current Headspace billing cycle.,1,Headspace,10.7,USD,2026-09-03,monthly
+CHL00060,ICUST0060,$62.38 has been charged for the current Coursera Plus billing cycle.,1,Coursera Plus,62.38,USD,2026-09-07,monthly
+CHL00061,ICUST0061,"Your Keells transaction for LKR 3,076 was successful.",0,Keells,3076.0,LKR,2026-09-06,one-time
+CHL00062,ICUST0062,"Receipt #595948: LKR 5,876 paid at Cargills Food City.",0,Cargills Food City,5876.0,LKR,2026-09-02,one-time
+CHL00063,ICUST0063,"Receipt #790993: LKR 4,207 paid at Arpico Supercentre.",0,Arpico Supercentre,4207.0,LKR,2026-09-04,one-time
+CHL00064,ICUST0064,"Pizza Hut Sri Lanka order #589710 has been paid. Amount: LKR 4,638.",0,Pizza Hut Sri Lanka,4638.0,LKR,2026-08-30,one-time
+CHL00065,ICUST0065,"Payment received for your KFC Sri Lanka purchase: LKR 5,106. Order #777568 is confirmed.",0,KFC Sri Lanka,5106.0,LKR,2026-08-30,one-time
+CHL00066,ICUST0066,"Payment received for your Lanka IOC purchase: LKR 8,741. Order #455784 is confirmed.",0,Lanka IOC,8741.0,LKR,2026-09-02,one-time
+CHL00067,ICUST0067,"Receipt #662336: LKR 22,243 paid at Singer Sri Lanka.",0,Singer Sri Lanka,22243.0,LKR,2026-09-01,one-time
+CHL00068,ICUST0068,"Receipt #392075: LKR 44,368 paid at Abans.",0,Abans,44368.0,LKR,2026-09-02,one-time
+CHL00069,ICUST0069,"Receipt #179046: LKR 87,327 paid at Damro.",0,Damro,87327.0,LKR,2026-09-07,one-time
+CHL00070,ICUST0070,"Your ODEL transaction for LKR 5,192 was successful.",0,ODEL,5192.0,LKR,2026-08-30,one-time
+CHL00071,ICUST0071,"Cool Planet: card payment of LKR 23,312 approved for order #890170.",0,Cool Planet,23312.0,LKR,2026-09-01,one-time
+CHL00072,ICUST0072,"Healthguard: card payment of LKR 6,630 approved for order #604740.",0,Healthguard,6630.0,LKR,2026-09-05,one-time
+CHL00073,ICUST0073,"Receipt #272634: LKR 10,898 paid at Vijitha Yapa Bookshop.",0,Vijitha Yapa Bookshop,10898.0,LKR,2026-08-30,one-time
+CHL00074,ICUST0074,"Receipt #378085: LKR 5,422 paid at Sri Lanka Railways.",0,Sri Lanka Railways,5422.0,LKR,2026-09-03,one-time
+CHL00075,ICUST0075,"Your SriLankan Airlines transaction for LKR 52,264 was successful.",0,SriLankan Airlines,52264.0,LKR,2026-09-06,one-time
+CHL00076,ICUST0076,"Keells: card payment of LKR 3,463 approved for order #411120.",0,Keells,3463.0,LKR,2026-08-30,one-time
+CHL00077,ICUST0077,"Payment received for your Cargills Food City purchase: LKR 13,037. Order #668532 is confirmed.",0,Cargills Food City,13037.0,LKR,2026-09-04,one-time
+CHL00078,ICUST0078,"Receipt #712554: LKR 2,944 paid at Arpico Supercentre.",0,Arpico Supercentre,2944.0,LKR,2026-09-07,one-time
+CHL00079,ICUST0079,"Pizza Hut Sri Lanka: card payment of LKR 7,960 approved for order #656926.",0,Pizza Hut Sri Lanka,7960.0,LKR,2026-08-30,one-time
+CHL00080,ICUST0080,"KFC Sri Lanka: card payment of LKR 6,773 approved for order #184002.",0,KFC Sri Lanka,6773.0,LKR,2026-08-31,one-time
+CHL00081,ICUST0081,"Lanka IOC: card payment of LKR 11,723 approved for order #808011.",0,Lanka IOC,11723.0,LKR,2026-09-05,one-time
+CHL00082,ICUST0082,"Singer Sri Lanka: card payment of LKR 15,790 approved for order #697347.",0,Singer Sri Lanka,15790.0,LKR,2026-09-08,one-time
+CHL00083,ICUST0083,"Payment received for your Abans purchase: LKR 60,682. Order #749468 is confirmed.",0,Abans,60682.0,LKR,2026-09-05,one-time
+CHL00084,ICUST0084,"Your Damro transaction for LKR 67,136 was successful.",0,Damro,67136.0,LKR,2026-09-04,one-time
+CHL00085,ICUST0085,"ODEL order #314181 has been paid. Amount: LKR 28,204.",0,ODEL,28204.0,LKR,2026-09-04,one-time
+CHL00086,ICUST0086,"Cool Planet: card payment of LKR 7,099 approved for order #515011.",0,Cool Planet,7099.0,LKR,2026-09-03,one-time
+CHL00087,ICUST0087,"Payment received for your Healthguard purchase: LKR 7,347. Order #888387 is confirmed.",0,Healthguard,7347.0,LKR,2026-08-30,one-time
+CHL00088,ICUST0088,"Payment received for your Vijitha Yapa Bookshop purchase: LKR 5,879. Order #690341 is confirmed.",0,Vijitha Yapa Bookshop,5879.0,LKR,2026-08-31,one-time
+CHL00089,ICUST0089,"Thank you for shopping at Sri Lanka Railways. Total paid: LKR 3,049.",0,Sri Lanka Railways,3049.0,LKR,2026-09-01,one-time
+CHL00090,ICUST0090,"SriLankan Airlines: card payment of LKR 93,594 approved for order #172132.",0,SriLankan Airlines,93594.0,LKR,2026-09-04,one-time
+CHL00091,ICUST0091,"Your Keells transaction for LKR 5,702 was successful.",0,Keells,5702.0,LKR,2026-09-03,one-time
+CHL00092,ICUST0092,"Cargills Food City order #946305 has been paid. Amount: LKR 13,729.",0,Cargills Food City,13729.0,LKR,2026-09-07,one-time
+CHL00093,ICUST0093,"Your Arpico Supercentre transaction for LKR 1,266 was successful.",0,Arpico Supercentre,1266.0,LKR,2026-09-03,one-time
+CHL00094,ICUST0094,"Pizza Hut Sri Lanka: card payment of LKR 8,043 approved for order #208618.",0,Pizza Hut Sri Lanka,8043.0,LKR,2026-09-03,one-time
+CHL00095,ICUST0095,"KFC Sri Lanka order #212235 has been paid. Amount: LKR 1,869.",0,KFC Sri Lanka,1869.0,LKR,2026-09-07,one-time
+CHL00096,ICUST0096,"Your Lanka IOC transaction for LKR 4,909 was successful.",0,Lanka IOC,4909.0,LKR,2026-09-02,one-time
+CHL00097,ICUST0097,"Singer Sri Lanka order #313487 has been paid. Amount: LKR 69,585.",0,Singer Sri Lanka,69585.0,LKR,2026-09-03,one-time
+CHL00098,ICUST0098,"Payment received for your Abans purchase: LKR 52,261. Order #363319 is confirmed.",0,Abans,52261.0,LKR,2026-08-31,one-time
+CHL00099,ICUST0099,"Thank you for shopping at Damro. Total paid: LKR 64,988.",0,Damro,64988.0,LKR,2026-08-30,one-time
+CHL00100,ICUST0100,"ODEL: card payment of LKR 2,598 approved for order #908577.",0,ODEL,2598.0,LKR,2026-09-03,one-time
+CHL00101,ICUST0101,"Your Cool Planet transaction for LKR 5,387 was successful.",0,Cool Planet,5387.0,LKR,2026-09-05,one-time
+CHL00102,ICUST0102,"Payment received for your Healthguard purchase: LKR 8,809. Order #217308 is confirmed.",0,Healthguard,8809.0,LKR,2026-09-01,one-time
+CHL00103,ICUST0103,"Thank you for shopping at Vijitha Yapa Bookshop. Total paid: LKR 6,865.",0,Vijitha Yapa Bookshop,6865.0,LKR,2026-09-08,one-time
+CHL00104,ICUST0104,"Sri Lanka Railways: card payment of LKR 3,128 approved for order #550664.",0,Sri Lanka Railways,3128.0,LKR,2026-08-30,one-time
+CHL00105,ICUST0105,"Payment received for your SriLankan Airlines purchase: LKR 42,969. Order #934794 is confirmed.",0,SriLankan Airlines,42969.0,LKR,2026-09-04,one-time
+CHL00106,ICUST0106,"Keells order #361650 has been paid. Amount: LKR 4,413.",0,Keells,4413.0,LKR,2026-08-31,one-time
+CHL00107,ICUST0107,"Receipt #687080: LKR 8,233 paid at Cargills Food City.",0,Cargills Food City,8233.0,LKR,2026-09-08,one-time
+CHL00108,ICUST0108,"Arpico Supercentre: card payment of LKR 26,482 approved for order #348237.",0,Arpico Supercentre,26482.0,LKR,2026-09-01,one-time
+CHL00109,ICUST0109,"Pizza Hut Sri Lanka: card payment of LKR 7,705 approved for order #125990.",0,Pizza Hut Sri Lanka,7705.0,LKR,2026-09-04,one-time
+CHL00110,ICUST0110,"KFC Sri Lanka order #531712 has been paid. Amount: LKR 5,738.",0,KFC Sri Lanka,5738.0,LKR,2026-09-02,one-time
+CHL00111,ICUST0111,"Lanka IOC order #925622 has been paid. Amount: LKR 6,635.",0,Lanka IOC,6635.0,LKR,2026-08-31,one-time
+CHL00112,ICUST0112,"Receipt #140605: LKR 39,429 paid at Singer Sri Lanka.",0,Singer Sri Lanka,39429.0,LKR,2026-09-02,one-time
+CHL00113,ICUST0113,"Thank you for shopping at Abans. Total paid: LKR 23,360.",0,Abans,23360.0,LKR,2026-09-03,one-time
+CHL00114,ICUST0114,"Damro: card payment of LKR 82,310 approved for order #338651.",0,Damro,82310.0,LKR,2026-08-30,one-time
+CHL00115,ICUST0115,"Thank you for shopping at ODEL. Total paid: LKR 20,651.",0,ODEL,20651.0,LKR,2026-09-03,one-time
+CHL00116,ICUST0116,"Thank you for shopping at Cool Planet. Total paid: LKR 20,989.",0,Cool Planet,20989.0,LKR,2026-09-04,one-time
+CHL00117,ICUST0117,"Healthguard order #519093 has been paid. Amount: LKR 9,945.",0,Healthguard,9945.0,LKR,2026-09-07,one-time
+CHL00118,ICUST0118,"Payment received for your Vijitha Yapa Bookshop purchase: LKR 4,442. Order #128941 is confirmed.",0,Vijitha Yapa Bookshop,4442.0,LKR,2026-09-03,one-time
+CHL00119,ICUST0119,"Payment received for your Sri Lanka Railways purchase: LKR 1,146. Order #378361 is confirmed.",0,Sri Lanka Railways,1146.0,LKR,2026-08-31,one-time
+CHL00120,ICUST0120,"SriLankan Airlines order #462479 has been paid. Amount: LKR 66,322.",0,SriLankan Airlines,66322.0,LKR,2026-09-04,one-time
+CHL00121,ICUST0121,Your Apple Store accessory order from Apple Services was charged $40.96. Order #636265.,0,Apple Services,40.96,USD,2026-09-08,one-time
+CHL00122,ICUST0122,Your movie rental from Google Play was charged $19.53. Order #146542.,0,Google Play,19.53,USD,2026-08-30,one-time
+CHL00123,ICUST0123,Your Adobe Stock single asset purchase from Adobe Creative Cloud was charged $48.22. Order #945687.,0,Adobe Creative Cloud,48.22,USD,2026-09-05,one-time
+CHL00124,ICUST0124,Payment $9.08 received for single design print order at Canva Pro. Ref 796503.,0,Canva Pro,9.08,USD,2026-09-04,one-time
+CHL00125,ICUST0125,Payment $60.70 received for Xbox game purchase at Microsoft 365. Ref 230679.,0,Microsoft 365,60.7,USD,2026-09-03,one-time
+CHL00126,ICUST0126,Payment $61.01 received for Super Chat payment at YouTube Premium. Ref 442027.,0,YouTube Premium,61.01,USD,2026-09-03,one-time
+CHL00127,ICUST0127,Payment $51.22 received for merchandise order at Spotify Premium. Ref 301158.,0,Spotify Premium,51.22,USD,2026-09-05,one-time
+CHL00128,ICUST0128,Your Netflix gift card purchase from Netflix was charged $61.92. Order #282480.,0,Netflix,61.92,USD,2026-09-07,one-time
+CHL00129,ICUST0129,Figma: FigJam template purchase completed for $75.52. Receipt #418635.,0,Figma,75.52,USD,2026-09-05,one-time
+CHL00130,ICUST0130,Your API credit top-up from ChatGPT Plus was charged $71.35. Order #736130.,0,ChatGPT Plus,71.35,USD,2026-09-06,one-time
+CHL00131,ICUST0131,Your device repair payment from Apple Services was charged $41.46. Order #324082.,0,Apple Services,41.46,USD,2026-09-01,one-time
+CHL00132,ICUST0132,Payment $60.31 received for movie rental at Google Play. Ref 397571.,0,Google Play,60.31,USD,2026-09-08,one-time
+CHL00133,ICUST0133,Payment $32.15 received for Adobe Stock single asset purchase at Adobe Creative Cloud. Ref 958179.,0,Adobe Creative Cloud,32.15,USD,2026-09-03,one-time
+CHL00134,ICUST0134,Canva Pro: printed photo book order completed for $22.53. Receipt #308802.,0,Canva Pro,22.53,USD,2026-08-30,one-time
+CHL00135,ICUST0135,Your Microsoft Store mouse order from Microsoft 365 was charged $24.29. Order #598216.,0,Microsoft 365,24.29,USD,2026-09-05,one-time
+CHL00136,ICUST0136,Payment $80.08 received for YouTube movie rental at YouTube Premium. Ref 703634.,0,YouTube Premium,80.08,USD,2026-09-05,one-time
+CHL00137,ICUST0137,Payment $46.00 received for Spotify gift card purchase at Spotify Premium. Ref 355836.,0,Spotify Premium,46.0,USD,2026-08-30,one-time
+CHL00138,ICUST0138,Your Netflix gift card purchase from Netflix was charged $80.65. Order #907451.,0,Netflix,80.65,USD,2026-09-02,one-time
+CHL00139,ICUST0139,Figma: FigJam template purchase completed for $18.29. Receipt #829716.,0,Figma,18.29,USD,2026-09-07,one-time
+CHL00140,ICUST0140,Your API credit top-up from ChatGPT Plus was charged $24.67. Order #989545.,0,ChatGPT Plus,24.67,USD,2026-09-01,one-time
+CHL00141,ICUST0141,Payment $72.71 received for device repair payment at Apple Services. Ref 800005.,0,Apple Services,72.71,USD,2026-09-08,one-time
+CHL00142,ICUST0142,Payment $30.59 received for in-app coin pack at Google Play. Ref 891937.,0,Google Play,30.59,USD,2026-09-07,one-time
+CHL00143,ICUST0143,Adobe Creative Cloud: one-off template purchase completed for $40.12. Receipt #674485.,0,Adobe Creative Cloud,40.12,USD,2026-09-06,one-time
+CHL00144,ICUST0144,Payment $42.15 received for printed photo book order at Canva Pro. Ref 888295.,0,Canva Pro,42.15,USD,2026-09-03,one-time
+CHL00145,ICUST0145,Payment $69.62 received for Xbox game purchase at Microsoft 365. Ref 646622.,0,Microsoft 365,69.62,USD,2026-09-02,one-time
+CHL00146,ICUST0146,YouTube Premium: Super Chat payment completed for $26.88. Receipt #181247.,0,YouTube Premium,26.88,USD,2026-09-03,one-time
+CHL00147,ICUST0147,Spotify Premium: Spotify gift card purchase completed for $32.21. Receipt #666390.,0,Spotify Premium,32.21,USD,2026-09-01,one-time
+CHL00148,ICUST0148,Payment $23.11 received for Netflix gift card purchase at Netflix. Ref 827659.,0,Netflix,23.11,USD,2026-09-02,one-time
+CHL00149,ICUST0149,Payment $8.58 received for FigJam template purchase at Figma. Ref 527398.,0,Figma,8.58,USD,2026-09-06,one-time
+CHL00150,ICUST0150,Your API credit top-up from ChatGPT Plus was charged $39.16. Order #316881.,0,ChatGPT Plus,39.16,USD,2026-09-08,one-time
+CHL00151,ICUST0151,Your device repair payment from Apple Services was charged $85.30. Order #120480.,0,Apple Services,85.3,USD,2026-09-06,one-time
+CHL00152,ICUST0152,Your in-app coin pack from Google Play was charged $3.50. Order #468845.,0,Google Play,3.5,USD,2026-09-05,one-time
+CHL00153,ICUST0153,Your Adobe Stock single asset purchase from Adobe Creative Cloud was charged $49.82. Order #870319.,0,Adobe Creative Cloud,49.82,USD,2026-09-02,one-time
+CHL00154,ICUST0154,Your printed photo book order from Canva Pro was charged $26.74. Order #609232.,0,Canva Pro,26.74,USD,2026-09-04,one-time
+CHL00155,ICUST0155,Payment $61.18 received for Xbox game purchase at Microsoft 365. Ref 936912.,0,Microsoft 365,61.18,USD,2026-09-01,one-time
+CHL00156,ICUST0156,Your YouTube movie rental from YouTube Premium was charged $76.11. Order #233827.,0,YouTube Premium,76.11,USD,2026-09-08,one-time
+CHL00157,ICUST0157,Payment $52.09 received for Spotify gift card purchase at Spotify Premium. Ref 128418.,0,Spotify Premium,52.09,USD,2026-09-05,one-time
+CHL00158,ICUST0158,Netflix: Netflix gift card purchase completed for $14.80. Receipt #584125.,0,Netflix,14.8,USD,2026-09-03,one-time
+CHL00159,ICUST0159,Your FigJam template purchase from Figma was charged $35.97. Order #321941.,0,Figma,35.97,USD,2026-09-04,one-time
+CHL00160,ICUST0160,Your API credit top-up from ChatGPT Plus was charged $69.22. Order #497542.,0,ChatGPT Plus,69.22,USD,2026-09-03,one-time
+CHL00161,ICUST0161,Payment $75.63 received for Apple Store accessory order at Apple Services. Ref 593152.,0,Apple Services,75.63,USD,2026-09-07,one-time
+CHL00162,ICUST0162,Payment $7.52 received for single app purchase at Google Play. Ref 466960.,0,Google Play,7.52,USD,2026-08-31,one-time
+CHL00163,ICUST0163,Adobe Creative Cloud: Adobe Stock single asset purchase completed for $70.96. Receipt #783414.,0,Adobe Creative Cloud,70.96,USD,2026-09-02,one-time
+CHL00164,ICUST0164,Canva Pro: printed photo book order completed for $20.33. Receipt #121369.,0,Canva Pro,20.33,USD,2026-09-01,one-time
+CHL00165,ICUST0165,Your Microsoft Store mouse order from Microsoft 365 was charged $44.19. Order #219946.,0,Microsoft 365,44.19,USD,2026-09-03,one-time
+CHL00166,ICUST0166,YouTube Premium: YouTube movie rental completed for $69.71. Receipt #275939.,0,YouTube Premium,69.71,USD,2026-09-03,one-time
+CHL00167,ICUST0167,Payment $12.39 received for merchandise order at Spotify Premium. Ref 126925.,0,Spotify Premium,12.39,USD,2026-09-05,one-time
+CHL00168,ICUST0168,Netflix: Netflix gift card purchase completed for $37.50. Receipt #849747.,0,Netflix,37.5,USD,2026-09-08,one-time
+CHL00169,ICUST0169,Figma: FigJam template purchase completed for $63.07. Receipt #757711.,0,Figma,63.07,USD,2026-09-03,one-time
+CHL00170,ICUST0170,Payment $76.97 received for API credit top-up at ChatGPT Plus. Ref 729577.,0,ChatGPT Plus,76.97,USD,2026-08-30,one-time
+CHL00171,ICUST0171,$9.77 paid to Duolingo Super; service access has been extended for another period.,1,Duolingo Super,9.77,USD,2026-09-04,monthly
+CHL00172,ICUST0172,Receipt from iCloud+: $1.61. Next payment date appears on your account page.,1,iCloud+,1.61,USD,2026-08-30,monthly
+CHL00173,ICUST0173,$34.64 paid to GitHub Copilot; service access has been extended for another period.,1,GitHub Copilot,34.64,USD,2026-08-31,monthly
+CHL00174,ICUST0174,Receipt from LinkedIn Premium: $47.33. Next payment date appears on your account page.,1,LinkedIn Premium,47.33,USD,2026-09-06,monthly
+CHL00175,ICUST0175,$13.65 paid to Disney+; service access has been extended for another period.,1,Disney+,13.65,USD,2026-09-01,monthly
+CHL00176,ICUST0176,Receipt from Amazon Prime: $14.86. Next payment date appears on your account page.,1,Amazon Prime,14.86,USD,2026-09-08,monthly
+CHL00177,ICUST0177,NordVPN: card ending 4821 was billed $13.07. Renewal settings are unchanged.,1,NordVPN,13.07,USD,2026-09-06,monthly
+CHL00178,ICUST0178,Proton Unlimited: card ending 4821 was billed $14.64. Renewal settings are unchanged.,1,Proton Unlimited,14.64,USD,2026-09-03,monthly
+CHL00179,ICUST0179,Evernote Personal charged $12.58. The current plan continues.,1,Evernote Personal,12.58,USD,2026-08-31,monthly
+CHL00180,ICUST0180,$12.78 paid to Headspace; service access has been extended for another period.,1,Headspace,12.78,USD,2026-09-02,monthly
+CHL00181,ICUST0181,Coursera Plus: card ending 4821 was billed $64.01. Renewal settings are unchanged.,1,Coursera Plus,64.01,USD,2026-09-08,monthly
+CHL00182,ICUST0182,Receipt from Dropbox Plus: $20.68. Next payment date appears on your account page.,1,Dropbox Plus,20.68,USD,2026-08-30,monthly
+CHL00183,ICUST0183,Receipt from Notion Plus: $13.95. Next payment date appears on your account page.,1,Notion Plus,13.95,USD,2026-09-01,monthly
+CHL00184,ICUST0184,Receipt from Zoom Pro: $16.92. Next payment date appears on your account page.,1,Zoom Pro,16.92,USD,2026-09-03,monthly
+CHL00185,ICUST0185,Grammarly Premium: card ending 4821 was billed $18.13. Renewal settings are unchanged.,1,Grammarly Premium,18.13,USD,2026-09-03,monthly
+CHL00186,ICUST0186,Duolingo Super: card ending 4821 was billed $11.44. Renewal settings are unchanged.,1,Duolingo Super,11.44,USD,2026-09-02,monthly
+CHL00187,ICUST0187,$1.76 paid to iCloud+; service access has been extended for another period.,1,iCloud+,1.76,USD,2026-09-06,monthly
+CHL00188,ICUST0188,GitHub Copilot charged $26.10. The current plan continues.,1,GitHub Copilot,26.1,USD,2026-09-06,monthly
+CHL00189,ICUST0189,$55.83 paid to LinkedIn Premium; service access has been extended for another period.,1,LinkedIn Premium,55.83,USD,2026-09-06,monthly
+CHL00190,ICUST0190,Payment received by Disney+: $14.33. Your access remains available until the next billing date.,1,Disney+,14.33,USD,2026-09-03,monthly
+CHL00191,ICUST0191,Amazon Prime charged $10.76. The current plan continues.,1,Amazon Prime,10.76,USD,2026-09-03,monthly
+CHL00192,ICUST0192,Receipt from NordVPN: $11.63. Next payment date appears on your account page.,1,NordVPN,11.63,USD,2026-09-06,monthly
+CHL00193,ICUST0193,Receipt from Proton Unlimited: $15.52. Next payment date appears on your account page.,1,Proton Unlimited,15.52,USD,2026-09-05,monthly
+CHL00194,ICUST0194,Evernote Personal: card ending 4821 was billed $17.97. Renewal settings are unchanged.,1,Evernote Personal,17.97,USD,2026-09-04,monthly
+CHL00195,ICUST0195,$13.51 paid to Headspace; service access has been extended for another period.,1,Headspace,13.51,USD,2026-09-03,monthly
+CHL00196,ICUST0196,Coursera Plus charged $55.13. The current plan continues.,1,Coursera Plus,55.13,USD,2026-08-31,monthly
+CHL00197,ICUST0197,Receipt from Dropbox Plus: $21.37. Next payment date appears on your account page.,1,Dropbox Plus,21.37,USD,2026-08-31,monthly
+CHL00198,ICUST0198,Notion Plus charged $15.94. The current plan continues.,1,Notion Plus,15.94,USD,2026-09-02,monthly
+CHL00199,ICUST0199,$15.29 paid to Zoom Pro; service access has been extended for another period.,1,Zoom Pro,15.29,USD,2026-09-03,monthly
+CHL00200,ICUST0200,Grammarly Premium: card ending 4821 was billed $25.04. Renewal settings are unchanged.,1,Grammarly Premium,25.04,USD,2026-09-08,monthly
+CHL00201,ICUST0201,"Card charged LKR 31,243 by Abans. Transaction ref 205409.",0,Abans,31243.0,LKR,2026-09-03,one-time
+CHL00202,ICUST0202,"Receipt from Damro: LKR 27,156. Thank you for your payment.",0,Damro,27156.0,LKR,2026-08-30,one-time
+CHL00203,ICUST0203,"Receipt from ODEL: LKR 21,971. Thank you for your payment.",0,ODEL,21971.0,LKR,2026-08-30,one-time
+CHL00204,ICUST0204,"Receipt from Cool Planet: LKR 23,429. Thank you for your payment.",0,Cool Planet,23429.0,LKR,2026-09-01,one-time
+CHL00205,ICUST0205,"LKR 9,894 paid to Healthguard; confirmation #889359.",0,Healthguard,9894.0,LKR,2026-08-31,one-time
+CHL00206,ICUST0206,"Receipt from Vijitha Yapa Bookshop: LKR 10,562. Thank you for your payment.",0,Vijitha Yapa Bookshop,10562.0,LKR,2026-09-06,one-time
+CHL00207,ICUST0207,"Card charged LKR 2,737 by Sri Lanka Railways. Transaction ref 457256.",0,Sri Lanka Railways,2737.0,LKR,2026-08-30,one-time
+CHL00208,ICUST0208,"SriLankan Airlines: payment of LKR 38,451 received. Reference 600935.",0,SriLankan Airlines,38451.0,LKR,2026-08-31,one-time
+CHL00209,ICUST0209,"Keells: payment of LKR 7,692 received. Reference 177680.",0,Keells,7692.0,LKR,2026-09-01,one-time
+CHL00210,ICUST0210,"Receipt from Cargills Food City: LKR 3,878. Thank you for your payment.",0,Cargills Food City,3878.0,LKR,2026-08-31,one-time
+CHL00211,ICUST0211,"LKR 34,793 paid to Arpico Supercentre; confirmation #224205.",0,Arpico Supercentre,34793.0,LKR,2026-09-08,one-time
+CHL00212,ICUST0212,"Card charged LKR 5,794 by Pizza Hut Sri Lanka. Transaction ref 748458.",0,Pizza Hut Sri Lanka,5794.0,LKR,2026-09-07,one-time
+CHL00213,ICUST0213,"Receipt from KFC Sri Lanka: LKR 3,406. Thank you for your payment.",0,KFC Sri Lanka,3406.0,LKR,2026-09-08,one-time
+CHL00214,ICUST0214,"Lanka IOC: payment of LKR 17,845 received. Reference 420214.",0,Lanka IOC,17845.0,LKR,2026-09-08,one-time
+CHL00215,ICUST0215,"Card charged LKR 91,410 by Singer Sri Lanka. Transaction ref 204053.",0,Singer Sri Lanka,91410.0,LKR,2026-09-02,one-time
+CHL00216,ICUST0216,"Card charged LKR 29,509 by Abans. Transaction ref 185131.",0,Abans,29509.0,LKR,2026-09-02,one-time
+CHL00217,ICUST0217,"Card charged LKR 22,165 by Damro. Transaction ref 178711.",0,Damro,22165.0,LKR,2026-08-30,one-time
+CHL00218,ICUST0218,"LKR 13,734 paid to ODEL; confirmation #822858.",0,ODEL,13734.0,LKR,2026-09-03,one-time
+CHL00219,ICUST0219,"Receipt from Cool Planet: LKR 2,525. Thank you for your payment.",0,Cool Planet,2525.0,LKR,2026-09-06,one-time
+CHL00220,ICUST0220,"Receipt from Healthguard: LKR 1,904. Thank you for your payment.",0,Healthguard,1904.0,LKR,2026-09-08,one-time
+CHL00221,ICUST0221,"From: billing@notice.example
+Subject: Payment update
+
+Thanks for your Disney+ payment of $13.28. Premium access continues.
+Ref: 307428
+-- automated message --",1,Disney+,13.28,USD,2026-09-07,monthly
+CHL00222,ICUST0222,*** PAYMENT NOTICE ***  Your Amazon Prime account will renew automatically; $10.79 was collected for this period.  | ref=256226 | please keep this email,1,Amazon Prime,10.79,USD,2026-08-31,monthly
+CHL00223,ICUST0223,"Hi,
+Your NordVPN account will renew automatically; $5.59 was collected for this period.
+
+Txn ID: 931131
+Sent from mobile",1,NordVPN,5.59,USD,2026-09-06,monthly
+CHL00224,ICUST0224,"[Receipt]
+Your Proton Unlimited account will renew automatically; $11.23 was collected for this period.
+Status: SUCCESS
+ID 822131",1,Proton Unlimited,11.23,USD,2026-09-03,monthly
+CHL00225,ICUST0225,"From: billing@notice.example
+Subject: Payment update
+
+Evernote Personal renewal confirmed — $14.00 paid for the upcoming month.
+Ref: 617781
+-- automated message --",1,Evernote Personal,14.0,USD,2026-09-08,monthly
+CHL00226,ICUST0226,"Hi,
+Receipt: Headspace plan payment $10.39. Next billing date is in 30 days.
+
+Txn ID: 553014
+Sent from mobile",1,Headspace,10.39,USD,2026-08-30,monthly
+CHL00227,ICUST0227,"Hi,
+Your Coursera Plus plan renewed for $50.83. Access continues for the next billing period.
+
+Txn ID: 807053
+Sent from mobile",1,Coursera Plus,50.83,USD,2026-09-08,monthly
+CHL00228,ICUST0228,"[Receipt]
+We received $12.51 for your Dropbox Plus membership. Your plan remains active.
+Status: SUCCESS
+ID 893005",1,Dropbox Plus,12.51,USD,2026-09-07,monthly
+CHL00229,ICUST0229,"[Receipt]
+We received $15.21 for your Notion Plus membership. Your plan remains active.
+Status: SUCCESS
+ID 391668",1,Notion Plus,15.21,USD,2026-09-06,monthly
+CHL00230,ICUST0230,"[Receipt]
+Receipt: Zoom Pro plan payment $19.80. Next billing date is in 30 days.
+Status: SUCCESS
+ID 592841",1,Zoom Pro,19.8,USD,2026-09-04,monthly
+CHL00231,ICUST0231,"Hi,
+We received $17.78 for your Grammarly Premium membership. Your plan remains active.
+
+Txn ID: 209680
+Sent from mobile",1,Grammarly Premium,17.78,USD,2026-09-05,monthly
+CHL00232,ICUST0232,"From: billing@notice.example
+Subject: Payment update
+
+Thanks for your Duolingo Super payment of $12.54. Premium access continues.
+Ref: 402218
+-- automated message --",1,Duolingo Super,12.54,USD,2026-09-06,monthly
+CHL00233,ICUST0233,"From: billing@notice.example
+Subject: Payment update
+
+Receipt: iCloud+ plan payment $1.78. Next billing date is in 30 days.
+Ref: 364659
+-- automated message --",1,iCloud+,1.78,USD,2026-09-05,monthly
+CHL00234,ICUST0234,"[Receipt]
+Your GitHub Copilot plan renewed for $35.08. Access continues for the next billing period.
+Status: SUCCESS
+ID 964998",1,GitHub Copilot,35.08,USD,2026-09-05,monthly
+CHL00235,ICUST0235,"[Receipt]
+Receipt: LinkedIn Premium plan payment $32.16. Next billing date is in 30 days.
+Status: SUCCESS
+ID 643623",1,LinkedIn Premium,32.16,USD,2026-09-06,monthly
+CHL00236,ICUST0236,*** PAYMENT NOTICE ***  Your Disney+ account will renew automatically; $14.07 was collected for this period.  | ref=313446 | please keep this email,1,Disney+,14.07,USD,2026-09-03,monthly
+CHL00237,ICUST0237,"From: billing@notice.example
+Subject: Payment update
+
+Amazon Prime renewal confirmed — $12.49 paid for the upcoming month.
+Ref: 832168
+-- automated message --",1,Amazon Prime,12.49,USD,2026-08-30,monthly
+CHL00238,ICUST0238,*** PAYMENT NOTICE ***  $14.72 has been charged for the current NordVPN billing cycle.  | ref=738448 | please keep this email,1,NordVPN,14.72,USD,2026-09-03,monthly
+CHL00239,ICUST0239,"From: billing@notice.example
+Subject: Payment update
+
+Thanks for your Proton Unlimited payment of $15.50. Premium access continues.
+Ref: 679077
+-- automated message --",1,Proton Unlimited,15.5,USD,2026-09-02,monthly
+CHL00240,ICUST0240,"From: billing@notice.example
+Subject: Payment update
+
+Evernote Personal renewal confirmed — $17.94 paid for the upcoming month.
+Ref: 218972
+-- automated message --",1,Evernote Personal,17.94,USD,2026-09-01,monthly
+CHL00241,ICUST0241,"Hi,
+Thank you for shopping at Cool Planet. Total paid: LKR 12,864.
+
+Txn ID: 851413
+Sent from mobile",0,Cool Planet,12864.0,LKR,2026-09-05,one-time
+CHL00242,ICUST0242,"[Receipt]
+Healthguard: card payment of LKR 12,670 approved for order #595158.
+Status: SUCCESS
+ID 595158",0,Healthguard,12670.0,LKR,2026-09-07,one-time
+CHL00243,ICUST0243,"*** PAYMENT NOTICE ***  Your Vijitha Yapa Bookshop transaction for LKR 2,334 was successful.  | ref=299869 | please keep this email",0,Vijitha Yapa Bookshop,2334.0,LKR,2026-08-31,one-time
+CHL00244,ICUST0244,"Hi,
+Receipt #928381: LKR 1,664 paid at Sri Lanka Railways.
+
+Txn ID: 928381
+Sent from mobile",0,Sri Lanka Railways,1664.0,LKR,2026-09-07,one-time
+CHL00245,ICUST0245,"Hi,
+Thank you for shopping at SriLankan Airlines. Total paid: LKR 39,641.
+
+Txn ID: 102689
+Sent from mobile",0,SriLankan Airlines,39641.0,LKR,2026-09-08,one-time
+CHL00246,ICUST0246,"*** PAYMENT NOTICE ***  Receipt #791998: LKR 10,775 paid at Keells.  | ref=791998 | please keep this email",0,Keells,10775.0,LKR,2026-09-06,one-time
+CHL00247,ICUST0247,"[Receipt]
+Thank you for shopping at Cargills Food City. Total paid: LKR 12,172.
+Status: SUCCESS
+ID 461888",0,Cargills Food City,12172.0,LKR,2026-09-06,one-time
+CHL00248,ICUST0248,"*** PAYMENT NOTICE ***  Arpico Supercentre order #297816 has been paid. Amount: LKR 32,717.  | ref=297816 | please keep this email",0,Arpico Supercentre,32717.0,LKR,2026-09-08,one-time
+CHL00249,ICUST0249,"From: billing@notice.example
+Subject: Payment update
+
+Receipt #997594: LKR 4,366 paid at Pizza Hut Sri Lanka.
+Ref: 997594
+-- automated message --",0,Pizza Hut Sri Lanka,4366.0,LKR,2026-09-04,one-time
+CHL00250,ICUST0250,"[Receipt]
+Receipt #839485: LKR 5,519 paid at KFC Sri Lanka.
+Status: SUCCESS
+ID 839485",0,KFC Sri Lanka,5519.0,LKR,2026-09-01,one-time
+CHL00251,ICUST0251,"Hi,
+Lanka IOC: card payment of LKR 10,178 approved for order #138817.
+
+Txn ID: 138817
+Sent from mobile",0,Lanka IOC,10178.0,LKR,2026-08-31,one-time
+CHL00252,ICUST0252,"[Receipt]
+Payment received for your Singer Sri Lanka purchase: LKR 83,677. Order #561694 is confirmed.
+Status: SUCCESS
+ID 561694",0,Singer Sri Lanka,83677.0,LKR,2026-08-30,one-time
+CHL00253,ICUST0253,"*** PAYMENT NOTICE ***  Abans order #529893 has been paid. Amount: LKR 72,771.  | ref=529893 | please keep this email",0,Abans,72771.0,LKR,2026-08-31,one-time
+CHL00254,ICUST0254,"[Receipt]
+Thank you for shopping at Damro. Total paid: LKR 49,663.
+Status: SUCCESS
+ID 377896",0,Damro,49663.0,LKR,2026-08-31,one-time
+CHL00255,ICUST0255,"[Receipt]
+ODEL order #993744 has been paid. Amount: LKR 25,924.
+Status: SUCCESS
+ID 993744",0,ODEL,25924.0,LKR,2026-09-04,one-time
+CHL00256,ICUST0256,"From: billing@notice.example
+Subject: Payment update
+
+Receipt #896290: LKR 15,715 paid at Cool Planet.
+Ref: 896290
+-- automated message --",0,Cool Planet,15715.0,LKR,2026-09-08,one-time
+CHL00257,ICUST0257,"Hi,
+Healthguard order #761820 has been paid. Amount: LKR 1,865.
+
+Txn ID: 761820
+Sent from mobile",0,Healthguard,1865.0,LKR,2026-09-02,one-time
+CHL00258,ICUST0258,"From: billing@notice.example
+Subject: Payment update
+
+Payment received for your Vijitha Yapa Bookshop purchase: LKR 9,138. Order #555052 is confirmed.
+Ref: 555052
+-- automated message --",0,Vijitha Yapa Bookshop,9138.0,LKR,2026-09-06,one-time
+CHL00259,ICUST0259,"From: billing@notice.example
+Subject: Payment update
+
+Payment received for your Sri Lanka Railways purchase: LKR 1,082. Order #414012 is confirmed.
+Ref: 414012
+-- automated message --",0,Sri Lanka Railways,1082.0,LKR,2026-09-04,one-time
+CHL00260,ICUST0260,"Hi,
+Thank you for shopping at SriLankan Airlines. Total paid: LKR 82,488.
+
+Txn ID: 407618
+Sent from mobile",0,SriLankan Airlines,82488.0,LKR,2026-09-05,one-time
+CHL00261,ICUST0261,Zoom Pro monthly plan-ku $14.86 charge aagiyullathu. Next billing period varaikkum access active.,1,Zoom Pro,14.86,USD,2026-09-05,monthly
+CHL00262,ICUST0262,Grammarly Premium மாதாந்திர திட்டத்திற்கான $22.19 கட்டணம் பெறப்பட்டது. அடுத்த billing date வரை சேவை தொடரும்.,1,Grammarly Premium,22.19,USD,2026-09-01,monthly
+CHL00263,ICUST0263,Duolingo Super monthly plan-ku $8.39 charge aagiyullathu. Next billing period varaikkum access active.,1,Duolingo Super,8.39,USD,2026-09-05,monthly
+CHL00264,ICUST0264,iCloud+ மாதாந்திர திட்டத்திற்கான $6.57 கட்டணம் பெறப்பட்டது. அடுத்த billing date வரை சேவை தொடரும்.,1,iCloud+,6.57,USD,2026-09-06,monthly
+CHL00265,ICUST0265,GitHub Copilot மாதாந்திர திட்டத்திற்கான $36.47 கட்டணம் பெறப்பட்டது. அடுத்த billing date வரை சேவை தொடரும்.,1,GitHub Copilot,36.47,USD,2026-09-02,monthly
+CHL00266,ICUST0266,LinkedIn Premium plan එක සඳහා $48.44 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,LinkedIn Premium,48.44,USD,2026-09-06,monthly
+CHL00267,ICUST0267,Disney+ மாதாந்திர திட்டத்திற்கான $10.03 கட்டணம் பெறப்பட்டது. அடுத்த billing date வரை சேவை தொடரும்.,1,Disney+,10.03,USD,2026-09-06,monthly
+CHL00268,ICUST0268,Amazon Prime monthly plan-ku $16.20 charge aagiyullathu. Next billing period varaikkum access active.,1,Amazon Prime,16.2,USD,2026-09-07,monthly
+CHL00269,ICUST0269,NordVPN plan එක සඳහා $6.57 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,NordVPN,6.57,USD,2026-09-04,monthly
+CHL00270,ICUST0270,Proton Unlimited plan එක සඳහා $19.87 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,Proton Unlimited,19.87,USD,2026-09-05,monthly
+CHL00271,ICUST0271,Evernote Personal plan එක සඳහා $15.52 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,Evernote Personal,15.52,USD,2026-09-03,monthly
+CHL00272,ICUST0272,Headspace plan එක සඳහා $11.98 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,Headspace,11.98,USD,2026-09-06,monthly
+CHL00273,ICUST0273,Coursera Plus plan එක සඳහා $51.13 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,Coursera Plus,51.13,USD,2026-09-08,monthly
+CHL00274,ICUST0274,Dropbox Plus plan එක සඳහා $16.66 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,Dropbox Plus,16.66,USD,2026-09-03,monthly
+CHL00275,ICUST0275,Notion Plus monthly plan-ku $10.18 charge aagiyullathu. Next billing period varaikkum access active.,1,Notion Plus,10.18,USD,2026-09-05,monthly
+CHL00276,ICUST0276,Zoom Pro monthly plan-ku $15.64 charge aagiyullathu. Next billing period varaikkum access active.,1,Zoom Pro,15.64,USD,2026-08-30,monthly
+CHL00277,ICUST0277,Grammarly Premium monthly plan-ku $28.39 charge aagiyullathu. Next billing period varaikkum access active.,1,Grammarly Premium,28.39,USD,2026-09-06,monthly
+CHL00278,ICUST0278,Duolingo Super plan එක සඳහා $13.65 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,Duolingo Super,13.65,USD,2026-09-02,monthly
+CHL00279,ICUST0279,iCloud+ plan එක සඳහා $6.45 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,iCloud+,6.45,USD,2026-09-02,monthly
+CHL00280,ICUST0280,GitHub Copilot monthly plan-ku $28.46 charge aagiyullathu. Next billing period varaikkum access active.,1,GitHub Copilot,28.46,USD,2026-09-03,monthly
+CHL00281,ICUST0281,LinkedIn Premium monthly plan-ku $57.10 charge aagiyullathu. Next billing period varaikkum access active.,1,LinkedIn Premium,57.1,USD,2026-09-01,monthly
+CHL00282,ICUST0282,Disney+ monthly plan-ku $13.02 charge aagiyullathu. Next billing period varaikkum access active.,1,Disney+,13.02,USD,2026-08-30,monthly
+CHL00283,ICUST0283,Amazon Prime plan එක සඳහා $11.46 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,Amazon Prime,11.46,USD,2026-08-30,monthly
+CHL00284,ICUST0284,NordVPN monthly plan-ku $10.79 charge aagiyullathu. Next billing period varaikkum access active.,1,NordVPN,10.79,USD,2026-09-01,monthly
+CHL00285,ICUST0285,Proton Unlimited plan එක සඳහා $10.89 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,Proton Unlimited,10.89,USD,2026-09-04,monthly
+CHL00286,ICUST0286,Evernote Personal மாதாந்திர திட்டத்திற்கான $15.98 கட்டணம் பெறப்பட்டது. அடுத்த billing date வரை சேவை தொடரும்.,1,Evernote Personal,15.98,USD,2026-09-02,monthly
+CHL00287,ICUST0287,Headspace monthly plan-ku $11.31 charge aagiyullathu. Next billing period varaikkum access active.,1,Headspace,11.31,USD,2026-09-04,monthly
+CHL00288,ICUST0288,Coursera Plus plan එක සඳහා $59.62 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,Coursera Plus,59.62,USD,2026-09-01,monthly
+CHL00289,ICUST0289,Dropbox Plus plan එක සඳහා $15.33 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,Dropbox Plus,15.33,USD,2026-09-03,monthly
+CHL00290,ICUST0290,Notion Plus plan එක සඳහා $15.97 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,Notion Plus,15.97,USD,2026-08-31,monthly
+CHL00291,ICUST0291,Zoom Pro மாதாந்திர திட்டத்திற்கான $16.80 கட்டணம் பெறப்பட்டது. அடுத்த billing date வரை சேவை தொடரும்.,1,Zoom Pro,16.8,USD,2026-09-01,monthly
+CHL00292,ICUST0292,Grammarly Premium மாதாந்திர திட்டத்திற்கான $25.57 கட்டணம் பெறப்பட்டது. அடுத்த billing date வரை சேவை தொடரும்.,1,Grammarly Premium,25.57,USD,2026-09-05,monthly
+CHL00293,ICUST0293,Duolingo Super monthly plan-ku $14.73 charge aagiyullathu. Next billing period varaikkum access active.,1,Duolingo Super,14.73,USD,2026-09-04,monthly
+CHL00294,ICUST0294,iCloud+ plan එක සඳහා $1.80 ගෙවීම ලැබුණි. ඊළඟ billing date දක්වා access සක්‍රීයයි.,1,iCloud+,1.8,USD,2026-08-30,monthly
+CHL00295,ICUST0295,GitHub Copilot மாதாந்திர திட்டத்திற்கான $17.67 கட்டணம் பெறப்பட்டது. அடுத்த billing date வரை சேவை தொடரும்.,1,GitHub Copilot,17.67,USD,2026-09-06,monthly
+CHL00296,ICUST0296,LinkedIn Premium monthly plan-ku $44.73 charge aagiyullathu. Next billing period varaikkum access active.,1,LinkedIn Premium,44.73,USD,2026-09-03,monthly
+CHL00297,ICUST0297,Disney+ monthly plan-ku $12.67 charge aagiyullathu. Next billing period varaikkum access active.,1,Disney+,12.67,USD,2026-09-04,monthly
+CHL00298,ICUST0298,Amazon Prime மாதாந்திர திட்டத்திற்கான $9.86 கட்டணம் பெறப்பட்டது. அடுத்த billing date வரை சேவை தொடரும்.,1,Amazon Prime,9.86,USD,2026-09-06,monthly
+CHL00299,ICUST0299,NordVPN monthly plan-ku $5.24 charge aagiyullathu. Next billing period varaikkum access active.,1,NordVPN,5.24,USD,2026-09-04,monthly
+CHL00300,ICUST0300,Proton Unlimited மாதாந்திர திட்டத்திற்கான $19.14 கட்டணம் பெறப்பட்டது. அடுத்த billing date வரை சேவை தொடரும்.,1,Proton Unlimited,19.14,USD,2026-08-31,monthly
